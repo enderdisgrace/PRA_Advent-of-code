@@ -1,4 +1,5 @@
 El problema abordado evalúa la seguridad de ciertas secuencias de números enteros leídas desde un archivo. Se considera que una secuencia es "segura" si las diferencias entre números consecutivos están entre 1 y 3 (inclusive); y la secuencia es completamente ascendente o completamente descendente.
+Esta primera parte no es demasiado complicada, pero se inluyó por su segunda parte que sí tiene más de qué hablar.
 
 Resolución del Problema
 
