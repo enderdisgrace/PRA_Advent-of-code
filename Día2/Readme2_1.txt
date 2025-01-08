@@ -1,7 +1,5 @@
 El problema abordado evalúa la seguridad de ciertas secuencias de números enteros leídas desde un archivo. Se considera que una secuencia es "segura" si las diferencias entre números consecutivos están entre 1 y 3 (inclusive); y la secuencia es completamente ascendente o completamente descendente.
 
-Brute Force: El programa evalúa cada secuencia línea por línea, comprobando los valores uno a uno para determinar si cumplen los criterios definidos.
-
 Resolución del Problema
 
 El programa utiliza std::ifstream para abrir el archivo input2.txt. Cada línea se lee como una cadena y se procesa mediante std::istringstream para convertirla en una secuencia de números enteros.
