@@ -8,6 +8,7 @@ Posteriormente, se procesan las secuencias de páginas, verificando si cumplen c
 que da positivo o negativo segun si cumplen o no. En la primera parte si cumple suma el numero de en medio en una variable
 y en la segunda si no cumple lo ordena con una función y después suma el número central.
 
-Para la función que ordena las secuencias, se puede utilizar un divide y vencerás que llama recursivamente a MergeSort dos veces
+Para la función que ordena las secuencias, he podido utilizar un divide y vencerás que llama recursivamente a MergeSort dos veces
 una con la mitad izquierda de la secuencia y otra con la secuencia derecha. Lo repite hasta que llega al final y va comprobando
-que cumpla las reglas, en caso negativo realiza un swap.
+que cumpla las reglas, en caso negativo realiza un swap. Con ello he expandido mis conocimientos sobre la forma de aplicar y utilizar
+la técnica de divide y vencerás
