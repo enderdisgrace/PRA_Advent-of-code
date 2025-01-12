@@ -15,4 +15,4 @@ Luego, se recorre list1, y para cada elemento se consulta su frecuencia en la ta
 El puntaje de similitud calculado se imprime en la consola como resultado final, proporcionando una métrica cuantitativa que mide el grado de coincidencia entre las dos listas.
 
 Este problema me dió pie a buscar una solución mejor a intentar crear desde cero una tabla hash, y gracias a él encontré la librería unordered_map, que implementa facilidades. 
-Gracias a él, me he familiarizado con esta librería para usar tablas hash más a menudo.
+Gracias a él, me he familiarizado con esta librería para usar tablas en el futuro.
