@@ -1,0 +1,13 @@
+El problema consiste en determinar si una serie de lineas cumple con las reglas de orden establecidas anteirormente
+Las reglas indican si un número puede ir antes que otro, en la primera parte se trata de verificar las reglas y sumar
+el número central de las lineas en correcto orden. En la segunda parte se corrige las lineas con un orden equivocado y
+se suma el número del medio una vez corregidas.
+
+La solución comienza leyendo las reglas de orden desde un archivo y almacenándolas dinámicamente en una estructura. 
+Posteriormente, se procesan las secuencias de páginas, verificando si cumplen con las reglas  mediante un algoritmo
+que da positivo o negativo segun si cumplen o no. En la primera parte si cumple suma el numero de en medio en una variable
+y en la segunda si no cumple lo ordena con una función y después suma el número central.
+
+Para la función que ordena las secuencias, se puede utilizar un divide y vencerás que llama recursivamente a MergeSort dos veces
+una con la mitad izquierda de la secuencia y otra con la secuencia derecha. Lo repite hasta que llega al final y va comprobando
+que cumpla las reglas, en caso negativo realiza un swap.
