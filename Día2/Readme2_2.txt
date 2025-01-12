@@ -20,6 +20,8 @@ Si una secuencia cumple alguna de las condiciones anteriores, se incrementa el c
 
 Finalmente el programa imprime el número total de secuencias seguras detectadas en el archivo, lo que permite evaluar la calidad y consistencia de los datos numéricos.
 
+Pensaba no incluir este día, porque el método bruteforce suele ser considerado rudimentario o ineficiente. En muchos casos lo es, sin embargo su mala fama ha hecho que durante mucho me niegue a siquiera plantearlo como una opción válida, cuando en realidad no deja de ser una forma más de resolución de problemas, con sus ventajas e inconvenientes. No quiero usar bruteforce por costumbre pero me alegro de haber retomado el contacto de cara a próximos problemas, aunque sea para tenerlo de último recurso.
+
 
 
 
