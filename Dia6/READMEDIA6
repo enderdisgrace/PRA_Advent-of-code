@@ -9,4 +9,4 @@ identifica y se simula su recorrido aplicando las reglas descritas. Durante la s
 para registrar las posiciones visitadas. Esto permite evitar recalcular pasos ya realizados y marca las posiciones como "visitadas" de 
 forma eficiente. El algoritmo termina cuando la guardia sale del área definida del mapa, momento en el que se cuentan todas las celdas 
 distintas visitadas. El uso de memoria dinámica garantiza un manejo más eficiente del espacio y evita recalcular posiciones repetidas. 
-Al finalizar, el programa libera la memoria asignada dinámicamente para evitar fugas, asegurando una solución limpia y eficiente.
+Con el problema he podido entender las aplicaciones que tiene la programación dinámica en el uso de la memoria de un programa.
